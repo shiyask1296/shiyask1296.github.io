@@ -13,7 +13,13 @@ body {
   color: #4e4e4e;
 }
 
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #1e1e1e;
 }
 
 a {
@@ -1486,7 +1492,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
 
-#intro .intro-content h2 {
+#intro .intro-content  {
   color: #ffffff;
   margin-bottom: 30px;
   font-size: 24px;
