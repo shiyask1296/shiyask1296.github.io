@@ -1499,7 +1499,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
 
-#intro .intro-content span {
+#intro .intro-content h2 span {
   color: #c802a0;
   text-align: right;
   font-size: 40px;
